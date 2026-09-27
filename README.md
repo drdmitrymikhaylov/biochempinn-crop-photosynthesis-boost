@@ -6,6 +6,10 @@ This project models that step, photosynthetic carbon assimilation and nutrient u
 
 **Status.** Concept stage. The project code is not public. This repository holds the physics, reference calculations on published parameters (`analysis/`, `results/`, `tests/`), and results as they come.
 
+## How it started
+
+This work comes from the field. I run physics-informed crop models behind an AI-enabled biostimulant platform with pilots in Brazil, Zimbabwe, Kyrgyzstan, Uzbekistan, Saudi Arabia and the UAE, backed by a granted US patent on smart fertilizer delivery (US 12,439,844) and plant-physiology papers in *Plants* (2026) and *Agronomy* (2025, 2026). Growers and partners all ask the same thing: what is a treatment worth in the leaf, not just at harvest? This repository answers it with the photosynthesis equations themselves.
+
 ## Three laws and what they buy
 
 - **Farquhar-von Caemmerer-Berry** photosynthesis. Assimilation is the minimum of the Rubisco-limited and RuBP-regeneration-limited rates, with a Beer-Lambert absorption profile through the canopy.
