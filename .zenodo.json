@@ -1,0 +1,22 @@
+{
+  "upload_type": "software",
+  "title": "BiochemPINN: Biostimulant Effects on Leaf Photosynthesis",
+  "description": "What a biostimulant changes inside the leaf, measured",
+  "creators": [
+    {
+      "name": "Mikhaylov, Dmitry",
+      "orcid": "0009-0009-2108-6820",
+      "affiliation": "Abu Dhabi Maritime Academy, AD Ports Group"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "biostimulants",
+    "crop modelling",
+    "enzyme kinetics",
+    "photosynthesis",
+    "physics informed neural networks",
+    "plant physiology"
+  ],
+  "access_right": "open"
+}
