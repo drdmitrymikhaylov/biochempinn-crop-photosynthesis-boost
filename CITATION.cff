@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
 title: "BiochemPINN: Biostimulant Effects on Leaf Photosynthesis"
+doi: "10.5281/zenodo.23529549"
 abstract: "What a biostimulant changes inside the leaf, measured"
 authors:
   - family-names: Mikhaylov
