@@ -1,5 +1,7 @@
 # Biochem PINN - Modelling How Biostimulants Alter Photosynthesis and Nutrient Uptake in Crops
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23529549.svg)](https://doi.org/10.5281/zenodo.23529549)
+
 A biostimulant is sold on yield trials. Yield is the end of a long causal chain. That is why the same product works in one season and not the next: nobody models the step where the molecule acts.
 
 This project models that step, photosynthetic carbon assimilation and nutrient uptake, instead of correlating dose against harvest.
